@@ -109,6 +109,11 @@ leñador-tres-reinos/
 ├── README.md
 └── LICENSE
 ```
+## GamePlay
+<img width="800" height="448" alt="menu" src="https://github.com/user-attachments/assets/dc60daca-4706-46e5-a921-c969d16633f2" />
+<img width="1435" height="876" alt="image" src="https://github.com/user-attachments/assets/3ea4f82f-ca1f-41a6-b459-23a7652cbbdc" />
+<img width="1579" height="797" alt="image" src="https://github.com/user-attachments/assets/ecb3fd17-addf-475f-abec-0c2c678755b5" />
+
 
 ## 📄 Licencia
 
